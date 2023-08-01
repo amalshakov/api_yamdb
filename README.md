@@ -17,9 +17,9 @@
 
 - Cоздать и активировать виртуальное окружение:
 
-```python -m venv venv```
+```python -m venv env```
 
-```source venv/bin/activate```
+```source env/Scripts/activate```
 
 ```python -m pip install --upgrade pip```
 
@@ -39,11 +39,11 @@
 
 ```python manage.py runserver```
 
-- Посмотреть документацию при запущенном сервере (см. выше):
+- Посмотреть документацию при запущенном сервере:
 
-- [Ссылка на документацию](http://127.0.0.1:8000/redoc)
+[Ссылка на документацию](http://127.0.0.1:8000/redoc)
 
 ### Авторы:
-- [Печерица Андрей](https://github.com/Pe4enka5)
 - [Мальшаков Александр](https://github.com/amalshakov)
+- [Печерица Андрей](https://github.com/Pe4enka5)
 - [Михайлов Андрей](https://github.com/Andew-063)
